@@ -1,0 +1,18 @@
+{
+  "name": "legendarymodule",
+  "version": "1.0.0",
+  "description": "The fastest module built with a Legendary Developer",
+  "main": "legendary.js",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "legendary"
+  },
+  "keywords": [
+    "Legendary"
+  ],
+  "author": "Legendary Developer",
+  "license": "ISC"
+}
